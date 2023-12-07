@@ -4,7 +4,7 @@
         "OpenButton": 0,
         "HideIcon": true,
         "HideIconAfter": 60,
-        "IconURL": "https://drive.google.com/file/d/1kpfymnGKmB8M2kU1P4bt51sTbUwK6-qi/view?usp=sharing",
+        "IconURL": "",
         "DisableIconText": false,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
@@ -14,13 +14,13 @@
       {
         "tab1": {
           "layout": 3,
-          "buttontext": "Welcome",
+          "buttontext": "Welcome in LOST ARK!",
           "title1": "Welcome",
           "title2": "Rates",
           "title3": "Rules",
-          "text1": "This is a community PVE server, so lets be nice and have fun.\n\n\nFLYERS REQUIRE A DOUBLE TAP TO DISMOUNT\n\nDeath Recovery only works once every 24hrs, its for emergencies only\n\nMods are all aimed at QOL and limiting risk of breakage. However please still be aware that mods may break with updates.\nThis is ARK launch, things break, dinos and gear get lost due to bugs and crashes.\n\nWe will have events with rewards.\n\nWe value community and co-operation.\n\nDaily Server Restarts:\n04:00 UTC +2 (4 AM)\n\nIf you need admin help your best bet is to ask on the discord.\n\n\nRecommend console commands for better perfomance\ngrass.Enable 0\nr.VolumetricFog 0\nr.VolumetricCloud 0\nr.Nanite.MaxPixelsPerEdge 2\nr.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution 16\n\n\nKEEP SUPER IMPORTANT ITEMS IN VANILLA STORAGES - IF A MOD BREAKS AND THE MODDED STORAGE DISAPPEARS, SO DO YOUR ITEMS\n\nDinCloud\nIf you download your dinosaur from DinoCloud storage and the server crashes before the next save your dino will not exist on the DinoCloud, but also not on the map due to rollback. Effectively deleting your dino.",
-          "text2": "Max Level = 300\nWild Dino Level Distribution is more like Ragnorak (aka less low level spawns)\n\nXP Gain = 10x\nTaming = 10x\nDino Harvest = 10x\nPlayer Harvest = 5x \nBreeding = 10x \nPer player/dino stat multipliers for weight, stamina, and fortitude = 3-5x\nMating Interval = 5x faster \nEgg Hatch Speed = 10x \nBaby Mature Speed = 10x\n\nImprinting significantly buffed\nLoot & fishing buffed",
-          "text3": "Admin is active and will be playing\n\nAny form of harassment, racism, homophobia etc. will not be tolerated.\n\nNo Spawn Camping/Building. Spawn points are for people to be able to get in the game, NOT to cause problems for new players spawning in!\n\nBe polite to your neighbors. Base building is a first come, first serve for locations. Always look around first before you start building a mega-base.\n\nPillar/foundation spamming is NOT allowed, in any way. Admins will clean up any spamming without any discussions.   Do not stack foundation to build walls or fences.\n\nYou are allowed to build ONE base per tribe on each map, on every cluster. you can of course have a starter base and move to a new location, but the expectation is for you to demolish the starter once you have moved.\n\nWe will likely make a community greenhouse and smeltery for the server.\nI will also consider making community pens in some locations for people to place tames and bags/beds. To cut down on small bases near caves etc.\n\nReserving spots is NOT allowed. When you start building, finish it.\n\nPlease try keep player, dino, tribe-names civil. We are adults so this wont be heavily enforced, but use your discretion.\n\nPlease try keep bases as reasonable as possible, again this wont be heavily enforced but its good practice to keep servers running nicely in the long term.\n\nIf you need admin help your best bet is to ask on the discord"
+          "text1": "This is a community balanced vanilla slighty boosted PVE server (focused for solo play mostly), so be nice, help people and you will be helped back too, and most important thing: have fun!.\n\n\nWe have auto-lock structures set ON but always check to have everything locked and make a bed to sleep with because randoms can find ways to kill your sleeping corpse and steal your items.\n\n\n\nMods are all aimed at QoL or adding new dinos not yet released for Ark Ascended, so the risk of bugs/breaks are high specially before they update fix them.PLEASE BE AWARE OF THIS and be careful because if a mod may break or don't work properly after every updates.\nThis is ARK Survival Ascended launch, things break, gameserver can crash cause they upgrading the virtual machines hosting them, dinos and gear can possibly get lost due to bugs and crashes.\n\nWe will have events with rewards.\n\nWe value community, co-operation, hard work and playtime!. Server ingame Shop and Exchange Shop will be always updated so check them frequently (You can ask/vote for suggestion on discord channel)\n\nDaily Server Restarts:\n06:00 AM GMT+1\n\nIf you need admin help your best bet is to ask on the discord.\n\n\nRecommend console commands for better perfomance\n\nr.VolumetricFog 0\nr.VolumetricCloud 0\n\n\n\n\nKEEP SUPER IMPORTANT ITEMS IN GAME VANILLA STORAGES - IF A MOD BREAKS AND THE MODDED STORAGE DISAPPEARS, SO DO YOUR ITEMS/DINOS (We will not refound them!)\n\nThis will go basically for all mods who store Dinos/Items like cryomod etc.\n",
+          "text2": "Max Wild Dino Level 150\nShiny Dinos LVL Min/Max 150/175\n\nXP Gain = 2x\nDino Harvest = 2x\nPlayer Harvest = 5x \n Faster Taming/Breeding \nPer player/dino stat multipliers: Weight x5, stamina x2, Health x2.\nMating Interval = Min/Max 15/30 Minutes\nEgg Hatch Speed = 60x \nBaby Mature Speed = 1Min+ \n\nImprinting significantly buffed (1 imprint for 100%)\nLoot/fishing multipliers x2",
+          "text3": "Your name cannot be Human or Humano,  Mensch or any other variation of the default names. Racist, inappropriate or highly offensive names are not allowed. Same for tribe name. \nMake a tribe so the Admins knows the player who actively play and people who don't.\nY\nAny form of harassment, racism, homophobia etc. will not be tolerated.\n\nNo Spawn Camping/Building. Spawn points are maded for all people to be able to get Resources/arctifacts in the game, This is not Single Player Mode!\n\nBe polite to your neighbors. Base building is a first come, first serve for locations. Always look around first before you start building a mega-base.\n\nPillar/foundation spamming is NOT allowed, in any way. Admins will clean up any spamming without any discussions.   Do not stack foundation to build walls or fences.\n\nYou are allowed to build ONE base per tribe on each map, on every cluster. you can of course have a starter base and move to a new location, but the expectation is for you to demolish the starter once you have moved.\n\n\n To cut down on small bases near caves etc.\n\nReserving spots is NOT allowed. When you start building, finish it.\n\nPlease try keep player, dino, tribe-names civil. We are adults so this wont be heavily enforced, but use your discretion.\n\nPlease try keep bases as reasonable as possible, again this wont be heavily enforced but its good practice to keep servers running nicely in the long term.\n\nIf you need admin help your best bet is to ask on the discord, please don't spawm ingame becaues i always testing/fixing things when im playing"
         }
       },
       {
@@ -28,23 +28,23 @@
           "layout": 1,
           "buttontext": "FAQ",
           "title1": "FAQ",
-          "text1": "Flyers require a double tap to dismount to prevent accidental death\n\nHold R to bring up player radial and locate nearby corpses\n\nAutomated Ark exists to help reduce clutter and automate boring tasks; it also allows crafting of stuctures and includes resource pullin. Please use it if you want to!\n\nCryopods have not been added as if they break you will lose all your dinos stored in them. They may be added in the future.\nThe same goes for stacking mods, we have added config override for stacks but weight is reduced by the backpack mod (when you craft it check your cosmetics tab and equip it for a 50% weight reduction)\n\nIf you need admin help your best bet is to ask on the discord.\n\n\nKEEP SUPER IMPORTANT ITEMS IN VANILLA STORAGES - IF A MOD BREAKS AND THE STORAGE DISAPPEARS, SO DO YOUR ITEMS"
+          "text1": "Starter items: Blue prints are always added in your inventory every time you respawn for 300seconds. In the Server Shop ingame, accessible in your inventory page by clicking the two icons bottom left near your Gold Coin amount pocket (Shop is House icon, Exchange shop icon near it) you can find in the Dino Page the LVL 50 starter dinos. To be able to buy them you need to have the correct amount of GoldCoins (You earn Gold Coins by actively play in the server, killing dinos and exchanging key items)\n\nYou can press and hold Square to bring up player radial mod menu and look at the mods we have like the locate nearby corpses etc\n\nAutomated Ark exists to help reduce clutter and automate boring tasks; it also allows crafting of stuctures and includes resource pulling. Please use it if you want to or play vanilla for more hardcore playstyle, the choice is yours!\n\nCryopods have not been added but we have a mod , but if breaks you will lose all your dinos stored in them. They may be added in the future by the original game developers.\nThe same goes for stacking mods, we have added config override for stacks but weight is half-reduced to help new players\n\nIf you need admin help your best bet is to ask on the discord.\n\n\nKEEP SUPER IMPORTANT ITEMS IN VANILLA STORAGES - IF A MOD BREAKS AND THE STORAGE DISAPPEARS, SO DO YOUR ITEMS"
         }
       },
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "Community Structures",
-          "title1": "Community Structures",
-          "text1": "These Structures are built by players in competitions for community use.\n\nGreen Houses\n\nVerny's Greenhouse : 64.3 31.6\n\nKharnyge's Greenhouse : 65.9 48.9\nIncludes Workshop\n\nKillsOnContact's Greenhouse : 48.9 51.2\nIncludes Workshop"
+          "buttontext": "Donations? P2W NO THANKS",
+          "title1": "Donations and ",
+          "text1": "Donations will help the server to stay online and let you and your friends playing, but also rewarding you with items/dinos etc. ingame, we won't allow OP Dinos or items that can break the game or give you a huge advantage over others that play daily and put efforts in everything they did to get some key goals./nWe won't happy people and fair gameplay, but aimed to a challenging experience for everyone! Thanks for your support and your kindess, it's hard to pleasure everyone but i'll try the best to be as clean and humble as possible. I may fail in some fixes/mods setups but i can't allow to lose your trust, cause i love the game and i love humanity. Real life is an hard mess, Ark can be our mind heaven where we can enjoy our free time./n -Kyle"
         }
       }
     ],
     "links": [
       {
         "link1": {
-          "text": "Link to Discord",
-          "url": "https://discord.gg/aPSBpzz68Q"
+          "text": "Discord WIP",
+          "url": ""
         }
       }
     ]
