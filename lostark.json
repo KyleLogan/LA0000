@@ -1,0 +1,53 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": True,
+        "HideIconAfter": 30,
+        "IconURL": "https://i.imgur.com/vqO5tFd.png",
+        "DisableIconText": false,
+        "IconPosition": 1,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 4,
+          "buttontext": "Welcome Survivor!",
+          "title1": "ARKNATION ASCENEDED 10x H/G/B/T",
+          "text1": "",           
+          "title2": "Server News - 11/30",
+          "text2": "<TextStyle.Green>The new website is live! www.arknation.net, You can click the Visit ARKNATION.NET tab below. You can also click the Submit Support Ticket tab to launch the support system directly.</>",
+          "title3": "Server Updates - 12/05",
+          "text3": "<TextStyle.Green>Server Status: OK</>",
+          "title4": "ARKNATION Server Rules",
+          "text4": "1.<TextStyle.Green>No Griefing or Trolling:</> Avoid actions that negatively impact the experience of other players, such as leading dangerous creatures to their bases or intentionally causing harm to their tames or structures.\n2. <TextStyle.Green>Respect Taming and Building Rules:</> Be considerate of other survivors by not blocking critical resources, spawn points, or taming areas. Do not build excessively large or obstructive structures.\n3. <TextStyle.Green>Report Bugs and Exploits:</> If you discover a game-breaking bug or exploit, report it to the server administrators rather than taking advantage of it. Exploiting game mechanics is not allowed.\n4. <TextStyle.Green>Be a Helpful and Supportive Community Member:</> Assist new players, share knowledge, and be a positive presence on the server. Building a friendly and cooperative community is essential for a successful PvE experience.\n5. <TextStyle.Green>No Blocking Obelisks and Artifacts:</> Do not build near or block access to obelisks, artifact caves, or other crucial map locations, as these are important for progression.\n6. <TextStyle.Green>No Cave Blocking:</> Do not obstruct access to caves, as these locations are vital for players to explore and gather resources.\n7. <TextStyle.Green>Follow Admin Guidelines:</> Respect the server administrators and moderators. They have the authority to enforce rules, resolve disputes, and maintain order on the server.\n8. <TextStyle.Green>Report Rule Violations:</> If you witness someone breaking these rules, report it to the server administrators or moderators. Do not take matters into your own hands.\n\nThese rules are designed to foster a cooperative and enjoyable PvE environment for all players on the server. The Server Admin will typically enforce these rules to ensure a positive gaming experience for everyone.</>",
+          "imageurl": "https://i.imgur.com/uTZbEih.jpg"
+        }
+      },
+    ],
+   "links": [
+      {
+        "link1": {
+          "text": "Join our Discord",
+          "url": "https://discord.gg/39yWpCTqtW"
+        }
+      },
+      {
+        "link2": {
+          "text": "Visit ARKNATION.NET",
+          "url": "https://www.arknation.net"
+        }
+      },
+      {
+        "link3": {
+          "text": "Submit Support Ticket",
+          "url": "https://www.arknation.net/submit-ticket/"            
+        }
+      }
+    ]
+  }
+}
