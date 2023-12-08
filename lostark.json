@@ -32,7 +32,7 @@
                 }
             },
             {
-                "tab3: {
+                "tab3": {
                     "layout": 1,
                     "buttontext": "New Dinos",
                     "title1": "New Custom Dinos informations",
@@ -48,7 +48,7 @@
                 }
             },
 
-        ],
+                ],
         "links": [
             {
                 "link1": {
