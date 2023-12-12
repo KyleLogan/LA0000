@@ -1,7 +1,7 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": 1,
             "HideIcon": true,
             "HideIconAfter": 10,
             "IconURL": "",
