@@ -1,14 +1,14 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 1,
+            "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 10,
+            "HideIconAfter": 1,
             "IconURL": "",
             "DisableIconText": true,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 15
+            "UpdateInterval": 1
         },
         "tabs": [
             {
