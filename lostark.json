@@ -3,10 +3,10 @@
         "settings": {
             "OpenButton": 5,
             "HideIcon": true,
-            "HideIconAfter": 1,
+            "HideIconAfter": 10,
             "IconURL": "",
             "DisableIconText": true,
-            "OpenOnStart": true,
+            "OpenOnStart": false,
             "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 1
         },
