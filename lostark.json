@@ -6,7 +6,7 @@
             "HideIconAfter": 10,
             "IconURL": "https://imgur.com/iQVDBr7",
             "DisableIconText": true,
-            "OpenOnStart": false,
+            "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 1
         },
