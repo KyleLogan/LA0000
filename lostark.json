@@ -14,7 +14,7 @@
             {
                 "tab1": {
                     "layout": 3,
-                    "buttontext": "Welcome",
+                    "buttontext": "<TextStyle.Green>Welcome</>",
                     "title1": "Welcome in!",
                     "title2": "Server Settings",
                     "title3": "Server Rules",
