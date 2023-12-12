@@ -50,7 +50,7 @@
             {
                 "tab5": {
                     "layout": 1,
-                    "buttontext": "<TextStyle.Green>Breeding/Taming</>",
+                    "buttontext": "<TextStyle.Yellow>Breeding/Taming</>",
                     "title1": "<TextStyle.Green>Breeding and Taming Guide</>",
                     "text1": "The first goal is to make the original Ark Kibbles effective to get 100% perfect Tames to stay less at watching huge cooldown timers, help Ark Newbies too and to give you more time to hunt tames/breed/build!\n\nIn-Depth Guide coming soon!"
                 }
@@ -58,7 +58,7 @@
             {
                 "tab5": {
                     "layout": 1,
-                    "buttontext": "<TextStyle.Green>Mods</>",
+                    "buttontext": "<TextStyle.Yellow>Mods</>",
                     "title1": "<TextStyle.Green>Mods Guide</>",
                     "text1": "Here you can see the active, how to use and how they works.\n\nSince some mods may be udated with new changes/additions and some may breaks, this guide will be coming soon!"
                 }
