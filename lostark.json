@@ -3,12 +3,12 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 1,
+            "HideIconAfter": 10,
             "IconURL": "",
-            "DisableIconText": false,
+            "DisableIconText": true,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
-            "UpdateInterval": 1
+            "UpdateInterval": 15
         },
         "tabs": [
             {
