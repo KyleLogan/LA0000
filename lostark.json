@@ -4,7 +4,7 @@
             "OpenButton": 4,
             "HideIcon": true,
             "HideIconAfter": 30,
-            "IconURL": "https://imgur.com/iQVDBr7",
+            "IconURL": "",
             "DisableIconText": true,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
