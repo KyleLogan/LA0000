@@ -3,11 +3,11 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 5,
+            "HideIconAfter": 1,
             "IconURL": "",
             "DisableIconText": true,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": false,
+            "OpenOnStart": falsee,
+            "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 1
         },
         "tabs": [
