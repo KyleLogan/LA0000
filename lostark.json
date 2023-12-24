@@ -6,8 +6,8 @@
             "HideIconAfter": 1,
             "IconURL": "",
             "DisableIconText": true,
-            "OpenOnStart": false,
-            "OpenOnStartOnlyNewPlayers": true,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 1
         },
         "tabs": [
