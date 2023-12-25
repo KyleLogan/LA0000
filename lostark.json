@@ -5,7 +5,7 @@
             "HideIcon": true,
             "HideIconAfter": 1,
             "IconURL": "",
-            "DisableIconText": true,
+            "DisableIconText": false,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": false,
             "UpdateInterval": 1
