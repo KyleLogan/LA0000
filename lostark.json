@@ -10,70 +10,69 @@
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 1
-      },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>Welcome</>",
-                    "title1": "<TextStyle.Green>Welcome in!</>",
-                    "text1": "This is a new PVE Crossplay Server focused in a balanced and challenging gameplay but with some timesaver boosts, like taming and breeding, to encourage players to use dinos for gather resources and hunt perfect tames, so you can stay less watching huge cooldown timers and also help Ark Newbies too with the new ASA features and changes!\n\nAuto-lock structures is always ON but keep an eye and check to have everything locked and make a bed before logging out if you don't want to lose your things.\n\nMods are all aimed at QoL or adding new dinos not yet released for Ark Ascended, so the risk of bugs/breaks are high specially every new updates/fixes. PLEASE BE AWARE OF THIS and be careful because if a mod may break or don't work properly after every updates.\nThis is ARK Survival Ascended launch, things break, gameserver can crash cause they upgrading the virtual machines hosting them, dinos and gear can possibly get lost due to bugs and crashes.\n\nGoldCoin, Exchange and Player Shops can be updated at anytime, so check them frequently.\n(You can ask/vote for suggestion on discord soon)\n\nDaily Server Restarts: 06:00 AM UTC+1\n\nConsole commands for better performance you can enter:\nr.VolumetricFog 0\nr.VolumetricCloud 0\n\nKEEP SUPER IMPORTANT ITEMS IN GAME VANILLA STORAGES - IF A MOD BREAKS AND THE MODDED STORAGE DISAPPEARS, SO DO YOUR ITEMS/DINOS (THEY WILL NOT BE REFUNDED!!)"
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>Rules</>",
-                    "title1": "<TextStyle.Green>New Players Guide</>",
-                    "text1": "Your name cannot be Human or Humano,  Mensch or any other variation of the default names. Racist, inappropriate or highly offensive names are not allowed. Same for tribe name.\nMake a tribe so the Admin knows the players who actively play and people who don't or left.\nAny form of harassment, racism, homophobia etc. will not be tolerated.\n\nNo Spawn Camping/Building. Spawn points are maded for all people to be able to get Resources/arctifacts in the game, This is not Single Player Mode!\n\nBe polite to your neighbors. Base building is a first come, first serve for locations. Always look around first before you start building a mega-base.\n\nPillar/foundation spamming is NOT allowed, in any way. Admins will clean up any spamming without any discussions. Do not stack foundation to build walls or fences.\n\nYou are allowed to build ONE base per tribe in a map and you can of course have a starter base and when you move to a new location please demolish the starter once you have moved.\nReserving spots is NOT allowed. When you start building, finish it.\n\nPlease try keep player, dino, tribe-names civil. We are adults so this wont be heavily enforced, but use your discretion.\n\nPlease try keep bases as reasonable as possible, again this wont be heavily enforced but its good practice to keep servers running nicely in the long term.\n\nNo Offline breeding. No Dino Wandering.\n\nIf you need admin help your best bet is to ask on the discord!"
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>New Players</>",
-                    "title1": "<TextStyle.Green>New Players Guide</>",
-                    "text1": "Detailed guide found in the new-player-guide channel the Discord"
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
-            },
-            {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>Rates</>",
-                    "title1": "<TextStyle.Green>Server Settings and Rates</>",
-                    "text1": "(some settings may get fixed/changed at anytime due to balancing gameplay)\n\nDINO MAX LEVELS:\nRegular Wild 150\nTEKs 180\nRock Drakes / Wyverns 190\nShiny 190\n\nRATES:\nXP Gain = x2\nPlayer Harvest: x2.5\nDino Harvest: x5\nFast Taming and Breeding\nMating Interval: Min/Max 35/45 Minutes\nEgg Hatch Speed: 1-5 Minutes\nBaby Mature Speed: 2-30 Minutes\nImprinting: 1/2 imprint for 100%\n\nFor more accurate settings and rates check on the discord."
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
-            },
-            {
-                "tab5": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>New Dinos</>",
-                    "title1": "<TextStyle.Green>New Added Custom Dinos</>",
-                    "text1": "Custom Dinos currently active in the server, added by custom mods not yet released by the official game + Spawn Locations:\n\n- Fire, Ice, Poison and Lightning Wyverns (Volcano, Snow Mountains, Swamp, Ice lakes)\n- Crystal Isles Ember, Blood and Tropical Wyverns (Volcano, Forests, Rivers)\n- Inferno Wyverns (1% spawn instead other Wyverns)\n- Basilisks (Swamp, Redwood Forest)\n- Candy Golem (Mountains)\n- Deinonychus (Jungles)\n- Gachas (Beaches, Jungles)\n- Featherlights (Forests, Redwood Forest)\n- Gasbags (Mountains)\n- Glowtails (Forests, Redwood Forest)\n- Griffins/Snow Griffins + Prisimine* (Anywhere near Mountains)\n- Ice Golems (Mountains)\n- Jerboas (Beahces, Jungles)\n- Maewings (Rivers)\n- Magmasaurs (Redwood Forest - Not tameable yet);\n- Managarmrs (Ice Lakes/Snow Mountains)\n- Mantis (Swamp)\n- Parrots (Dimorphodons shared spawns)\n- Phoenixes (Quetzal shared spawns - KO Tame right now)\n- Ravagers (Redwood Forest)\n- Reapers (Redwood Forest)\n- Rejuvenating Dragons (Beaches)\n- Rock Drakes (Redwood Forest)\n- Rock Golems (Mountains)\n- Roll Rats (Forests)\n- Sand Dragons (Beaches)\n- Seahorses + Rainbow (Ocean)\n- Shinehorns (Beaches)\n- Sinomarcrops (Forests)\n- Snow Owls and R-Snow Owls + Prisimine* (Snow Biome Mountains)\n- Thorny Dragons (Forests, Jungles)\n- Velonasaurs (Mountains)\nPrisimine is a special glowing dino, can rarely spawn instead of the normal version (5% Spawn Chance)\n\nTEK DINOS:\nTek Giganotosaurus\nTek Mosasaurus\nTek Parasaur\nTek Quetzal\nTek Raptor\nTek Rex\nTek Stego\nTek Trike\nTek Alphas spawns too.\n\nFor informations about taming mods added dinos check #new-dinos channel on discord"
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
-            },
-            {
-                "tab6": {
-                    "layout": 1,
-                    "buttontext": "<TextStyle.Yellow>S</><TextStyle.Green>h</><TextStyle.Blue>i</><TextStyle.Red>n</><TextStyle.Yellow>y</>",
-                    "title1": "<TextStyle.Green>Shiny Dinos</>",
-                    "text1": "Shiny Dinos are made from over 40 unique and distinct color sets, drawing from all available colors in the game, including all the new Ark:SA Dye colors, which were carefully arranged to produce beautiful Dinos which still look natural, but very different from what you are used to.\nAnd to top it all off, there are numerous rare special abilities that Shiny Dinos can be born with, among them Frozen, Burning, Spectral, and more - and many more yet to come.\n\nTo help in your search of Shiny Dinos, you can use the included Tracker - although it may not be perfectly accurate, it'll point you in the right direction. You can craft the Shiny Dino Tracker at Level 55.\n\n*Cryopods Mod will preserve their Shinyness, colors and their special effects*\n\nEnraged dinos have all the dangers of an Alpha, but worse. They cannot be tamed, and they will be tough to conquer— but if you can do it, you (and your chibi) will reap the rewards. (Bigger, stronger, tougher, faster. Enraged kills drop special loot, and kills will count towards chibi XP).\n\nShinobi dinos are especially sneaky. Predators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted. They have Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful.\n\nFathomless dinos are blue, with nothing else to give away their special strength. Perhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.\n\nEndurant dinos may sport any Shiny colour, but that’s not all. These dinos can sprint indefinitely without losing stamina. Attacks and any special abilities that would normally drain stamina will still do so.\n\nThe bodies of Burning dinos are covered in constantly burning flames. These animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it. AoE special attack: default Melee Key / Ctrl.\n\nFrozen dinos are made of ice! It's ok-- the cold never bothered them anyway. Their low internal temperature allows them to keep perishables fresh as long as a regular refrigerator. They may move a bit more slowly, but they are tough. They will take reduced damage from every attack— except fire. They are especially vulnerable to flame.\n\nAnother spooky variant, Spectral dinos wander the Arks, tethered to the world of the living by some arcane energy. These ghostly dinos are transparent and insubstantial, with an eerie spirit glow. They can fall any distance without being hurt, and they walk in complete silence. Instead of pooping, they will gift you with random things channeled from the spirit plane in the form of spectral poop. (Yes, you can walk through them. You cannot walk them through walls into other people’s bases to steal their stuff!)\n\nDon’t be too quick to judge the Filthy dinos. Their awful stench may send you reeling, but if you can tame them, and if you clean them up, they may turn out to be your best friend. (Filthy dinos spawn in with an extra level boost, but you are going to have to work for it. Submerge them fully in water to clean off the stink! Or gíve them a good scrubbing with some Soap, not everyone likes to take a bath!)\n\nHolographic dinos have escaped a simulation and now roam the ARKs. They grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!\n\nLunar Dinos manage to partially defy gravity, and move as if they are on the moon. Jumping and bouncing in low gravity!\n\nHardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined:\nThese dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\n\nThey have a higher chance to roll good values in their favored stat - before taming:\nHardy - Health;\nStalwart - Stamina;\nInspired - Oxygen;\nSatiate - Food;\nHefty - Weight;\nFierce - Melee;\nRefined - Lower speed, higher everything else (only availabile if speed leveling is enabled, currently not);\n\n*There is a random chance that can make Shiny Dinos have a double rolls in two stats instead of one, they will have two different names apart their Shiny type*\n\nShiny features over 40 color sets which all show up as names on Shiny dinos. Some abilities listed above will combine with a random color, some have their own colors.\n\nIf you encounter any name not listed here, its likely just its coloring."
-                    "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
-                }
+    },
+    "tabs": [
+        {
+            "tab1": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>Welcome</>",
+                "title1": "<TextStyle.Green>Welcome in!</>",
+                "text1": "This is a new PVE Crossplay Server focused in a balanced and challenging gameplay but with some timesaver boosts, like taming and breeding, to encourage players to use dinos for gather resources and hunt perfect tames, so you can stay less watching huge cooldown timers and also help Ark Newbies too with the new ASA features and changes!\n\nAuto-lock structures is always ON but keep an eye and check to have everything locked and make a bed before logging out if you don't want to lose your things.\n\nMods are all aimed at QoL or adding new dinos not yet released for Ark Ascended, so the risk of bugs/breaks are high specially every new updates/fixes. PLEASE BE AWARE OF THIS and be careful because if a mod may break or don't work properly after every updates.\nThis is ARK Survival Ascended launch, things break, gameserver can crash cause they upgrading the virtual machines hosting them, dinos and gear can possibly get lost due to bugs and crashes.\n\nGoldCoin, Exchange and Player Shops can be updated at anytime, so check them frequently.\n(You can ask/vote for suggestion on discord soon)\n\nDaily Server Restarts: 06:00 AM UTC+1\n\nConsole commands for better performance you can enter:\nr.VolumetricFog 0\nr.VolumetricCloud 0\n\nKEEP SUPER IMPORTANT ITEMS IN GAME VANILLA STORAGES - IF A MOD BREAKS AND THE MODDED STORAGE DISAPPEARS, SO DO YOUR ITEMS/DINOS (THEY WILL NOT BE REFUNDED!!)",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
             }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "<TextStyle.Red>Discord Link: xpWzw86ZVM</>",
-                    "url": "https://discord.gg/xpWzw86ZVM"
-                }
+        },
+        {
+            "tab2": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>Rules</>",
+                "title1": "<TextStyle.Green>New Players Guide</>",
+                "text1": "Your name cannot be Human or Humano,  Mensch or any other variation of the default names. Racist, inappropriate or highly offensive names are not allowed. Same for tribe name.\nMake a tribe so the Admin knows the players who actively play and people who don't or left.\nAny form of harassment, racism, homophobia etc. will not be tolerated.\n\nNo Spawn Camping/Building. Spawn points are maded for all people to be able to get Resources/arctifacts in the game, This is not Single Player Mode!\n\nBe polite to your neighbors. Base building is a first come, first serve for locations. Always look around first before you start building a mega-base.\n\nPillar/foundation spamming is NOT allowed, in any way. Admins will clean up any spamming without any discussions. Do not stack foundation to build walls or fences.\n\nYou are allowed to build ONE base per tribe in a map and you can of course have a starter base and when you move to a new location please demolish the starter once you have moved.\nReserving spots is NOT allowed. When you start building, finish it.\n\nPlease try keep player, dino, tribe-names civil. We are adults so this wont be heavily enforced, but use your discretion.\n\nPlease try keep bases as reasonable as possible, again this wont be heavily enforced but its good practice to keep servers running nicely in the long term.\n\nNo Offline breeding. No Dino Wandering.\n\nIf you need admin help your best bet is to ask on the discord!",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
             }
-        ]
-    }
+        },
+        {
+            "tab3": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>New Players</>",
+                "title1": "<TextStyle.Green>New Players Guide</>",
+                "text1": "Detailed guide found in the new-player-guide channel the Discord",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
+            }
+        },
+        {
+            "tab4": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>Rates</>",
+                "title1": "<TextStyle.Green>Server Settings and Rates</>",
+                "text1": "(some settings may get fixed/changed at anytime due to balancing gameplay)\n\nDINO MAX LEVELS:\nRegular Wild 150\nTEKs 180\nRock Drakes / Wyverns 190\nShiny 190\n\nRATES:\nXP Gain = x2\nPlayer Harvest: x2.5\nDino Harvest: x5\nFast Taming and Breeding\nMating Interval: Min/Max 35/45 Minutes\nEgg Hatch Speed: 1-5 Minutes\nBaby Mature Speed: 2-30 Minutes\nImprinting: 1/2 imprint for 100%\n\nFor more accurate settings and rates check on the discord.",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
+            }
+        },
+        {
+            "tab5": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>New Dinos</>",
+                "title1": "<TextStyle.Green>New Added Custom Dinos</>",
+                "text1": "Custom Dinos currently active in the server, added by custom mods not yet released by the official game + Spawn Locations:\n\n- Fire, Ice, Poison and Lightning Wyverns (Volcano, Snow Mountains, Swamp, Ice lakes)\n- Crystal Isles Ember, Blood and Tropical Wyverns (Volcano, Forests, Rivers)\n- Inferno Wyverns (1% spawn instead other Wyverns)\n- Basilisks (Swamp, Redwood Forest)\n- Candy Golem (Mountains)\n- Deinonychus (Jungles)\n- Gachas (Beaches, Jungles)\n- Featherlights (Forests, Redwood Forest)\n- Gasbags (Mountains)\n- Glowtails (Forests, Redwood Forest)\n- Griffins/Snow Griffins + Prisimine* (Anywhere near Mountains)\n- Ice Golems (Mountains)\n- Jerboas (Beahces, Jungles)\n- Maewings (Rivers)\n- Magmasaurs (Redwood Forest - Not tameable yet);\n- Managarmrs (Ice Lakes/Snow Mountains)\n- Mantis (Swamp)\n- Parrots (Dimorphodons shared spawns)\n- Phoenixes (Quetzal shared spawns - KO Tame right now)\n- Ravagers (Redwood Forest)\n- Reapers (Redwood Forest)\n- Rejuvenating Dragons (Beaches)\n- Rock Drakes (Redwood Forest)\n- Rock Golems (Mountains)\n- Roll Rats (Forests)\n- Sand Dragons (Beaches)\n- Seahorses + Rainbow (Ocean)\n- Shinehorns (Beaches)\n- Sinomarcrops (Forests)\n- Snow Owls and R-Snow Owls + Prisimine* (Snow Biome Mountains)\n- Thorny Dragons (Forests, Jungles)\n- Velonasaurs (Mountains)\nPrisimine is a special glowing dino, can rarely spawn instead of the normal version (5% Spawn Chance)\n\nTEK DINOS:\nTek Giganotosaurus\nTek Mosasaurus\nTek Parasaur\nTek Quetzal\nTek Raptor\nTek Rex\nTek Stego\nTek Trike\nTek Alphas spawns too.\n\nFor informations about taming mods added dinos check #new-dinos channel on discord",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
+            }
+        },
+        {
+            "tab6": {
+                "layout": 1,
+                "buttontext": "<TextStyle.Yellow>S</><TextStyle.Green>h</><TextStyle.Blue>i</><TextStyle.Red>n</><TextStyle.Yellow>y</>",
+                "title1": "<TextStyle.Green>Shiny Dinos</>",
+                "text1": "Shiny Dinos are made from over 40 unique and distinct color sets, drawing from all available colors in the game, including all the new Ark:SA Dye colors, which were carefully arranged to produce beautiful Dinos which still look natural, but very different from what you are used to.\nAnd to top it all off, there are numerous rare special abilities that Shiny Dinos can be born with, among them Frozen, Burning, Spectral, and more - and many more yet to come.\n\nTo help in your search of Shiny Dinos, you can use the included Tracker - although it may not be perfectly accurate, it'll point you in the right direction. You can craft the Shiny Dino Tracker at Level 55.\n\n*Cryopods Mod will preserve their Shinyness, colors and their special effects*\n\nEnraged dinos have all the dangers of an Alpha, but worse. They cannot be tamed, and they will be tough to conquer— but if you can do it, you (and your chibi) will reap the rewards. (Bigger, stronger, tougher, faster. Enraged kills drop special loot, and kills will count towards chibi XP).\n\nShinobi dinos are especially sneaky. Predators will have to get very close before they will even notice the Shinobi, and if you are careful, you can ride right around a threat without being spotted. They have Significantly reduced aggro range for wild dinos. That’s reduced— not none at all! Be careful.\n\nFathomless dinos are blue, with nothing else to give away their special strength. Perhaps one of the most useful of the Shiny set, these dinos are bigger on the inside— the weight of anything in their inventory is reduced by 80%.\n\nEndurant dinos may sport any Shiny colour, but that’s not all. These dinos can sprint indefinitely without losing stamina. Attacks and any special abilities that would normally drain stamina will still do so.\n\nThe bodies of Burning dinos are covered in constantly burning flames. These animals are immune to damage from fire and lava, and can, if provoked, let loose with an explosion of fire that damages everything around it. AoE special attack: default Melee Key / Ctrl.\n\nFrozen dinos are made of ice! It's ok-- the cold never bothered them anyway. Their low internal temperature allows them to keep perishables fresh as long as a regular refrigerator. They may move a bit more slowly, but they are tough. They will take reduced damage from every attack— except fire. They are especially vulnerable to flame.\n\nAnother spooky variant, Spectral dinos wander the Arks, tethered to the world of the living by some arcane energy. These ghostly dinos are transparent and insubstantial, with an eerie spirit glow. They can fall any distance without being hurt, and they walk in complete silence. Instead of pooping, they will gift you with random things channeled from the spirit plane in the form of spectral poop. (Yes, you can walk through them. You cannot walk them through walls into other people’s bases to steal their stuff!)\n\nDon’t be too quick to judge the Filthy dinos. Their awful stench may send you reeling, but if you can tame them, and if you clean them up, they may turn out to be your best friend. (Filthy dinos spawn in with an extra level boost, but you are going to have to work for it. Submerge them fully in water to clean off the stink! Or gíve them a good scrubbing with some Soap, not everyone likes to take a bath!)\n\nHolographic dinos have escaped a simulation and now roam the ARKs. They grant their rider the ability to detect threats, identify their companions, and find precious high-level dinos for taming!\n\nLunar Dinos manage to partially defy gravity, and move as if they are on the moon. Jumping and bouncing in low gravity!\n\nHardy, Stalwart, Inspired, Satiate, Hefty, Fierce and Refined:\nThese dinos have developed a strength in one particular stat, which is more pronounced in their genes then in other dinos, which makes them quite desirable for breeding.\n\nThey have a higher chance to roll good values in their favored stat - before taming:\nHardy - Health;\nStalwart - Stamina;\nInspired - Oxygen;\nSatiate - Food;\nHefty - Weight;\nFierce - Melee;\nRefined - Lower speed, higher everything else (only availabile if speed leveling is enabled, currently not);\n\n*There is a random chance that can make Shiny Dinos have a double rolls in two stats instead of one, they will have two different names apart their Shiny type*\n\nShiny features over 40 color sets which all show up as names on Shiny dinos. Some abilities listed above will combine with a random color, some have their own colors.\n\nIf you encounter any name not listed here, its likely just its coloring.",
+                "imageurl": "https://i.imgur.com/qgAAH8S.jpeg"
+            }
+        }
+    ],
+    "links": [
+        {
+            "link1": {
+                "text": "<TextStyle.Red>Discord Link: xpWzw86ZVM</>",
+                "url": "https://discord.gg/xpWzw86ZVM"
+            }
+        }
+    ]
 }
