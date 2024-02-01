@@ -1,5 +1,6 @@
 {
-    "settings": {
+    "WBUI2": {
+        "settings": {
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
@@ -75,4 +76,5 @@
             }
         }
     ]
+}
 }
